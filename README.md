@@ -6,9 +6,9 @@ Para executar o programa, siga os passos a seguir:
 
 Caso queira editar um arquivo de código fonte próprio para testar basta passar o caminho relativo deste arquivo como parâmetro.
 
-Exemplo:
-`node src/bootstrap.js ~/Documents/test.txt`
-`node src/bootstrap.js ~/Downloads/test.py`
+Exemplo:\
+`node src/bootstrap.js ~/Documents/test.txt`\
+`node src/bootstrap.js ~/Downloads/test.py`\
 `node src/bootstrap.js ~/Desktop/test.c`
 
 
